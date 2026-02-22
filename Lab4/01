@@ -1,0 +1,25 @@
+package bicycle;
+
+import java.util.Scanner;
+
+public class Command2 {
+  public static void main (String[] args) {
+      String name = "";
+      String id;
+      Scanner input = new Scanner (System. in) ;
+      
+      Student std1 = new Student () ;
+      
+      System. out.print ("Enter your name: ") ;
+      name = input.nextLine () ;
+      
+      System. out.print ("Enter your ID number : ");
+      id = input.nextLine ();
+      
+      std1.setStdName (name);
+      
+      System.out.println("Login: " + std1.getLogin(id));
+      System. out.println ("Password: " + std1.getPassword());
+      
+     }
+}
