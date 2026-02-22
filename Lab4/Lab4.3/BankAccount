@@ -1,0 +1,27 @@
+package bank;
+
+public class BankAccount {
+  private double b; // balance
+
+    public void setBalance (double a) {
+    b = a;
+    }
+    public double getBalance () {
+    return b;
+    
+    }
+    
+    public void withdraw (double a) {
+    if (a < b) {
+    b = b - a;
+    } else {
+    System. out.println ("Insufficient funds!");
+    
+    }
+  }
+
+    public void deposit (double a) {
+    b = b + a;
+
+  }
+}
