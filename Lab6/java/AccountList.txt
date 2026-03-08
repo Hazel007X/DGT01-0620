@@ -1,0 +1,6 @@
+Balance 30000.00
+Deposit 1000.00
+Deposit 2000.50
+Withdraw 3500.50
+Withdraw 300.00
+Deposit 1500.00

@@ -1,0 +1,6 @@
+200.00 USD = 6144.00 Baht
+300.50 USD = 9231.36 Baht
+430.00 YEN = 15897.10 Baht
+150.00 POUND = 7251.00 Baht
+100.00 POUND = 4834.00 Baht
+>>> Summation = 43357.46 Baht

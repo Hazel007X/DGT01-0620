@@ -1,0 +1,8 @@
+Transaction History
+
+Balance = 30000.00		Balance = 30000.00
+Deposit = 1000.00		Balance = 31000.00
+Deposit = 2000.50		Balance = 33000.50
+Withdraw = 3500.50		Balance = 29500.00
+Withdraw = 300.00		Balance = 29200.00
+Deposit = 1500.00		Balance = 30700.00
